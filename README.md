@@ -28,19 +28,19 @@ Many developers build in isolation and miss support, accountability, and exposur
 
 MzansiBuilds now supports the ability for users to create or join teams, making it easier to collaborate on projects. A team can consist of multiple members, allowing developers, students, or hackathon groups to work together within a shared workspace(note that the celebration wall for is separate for teams and users to ensure fairness).
 
-Each team includes:
+## Each team includes:
 
-a team owner (admin)
-multiple team members
-shared access to projects and updates
+-a team owner (admin)
+-multiple team members
+-shared access to projects and updates
 
-This feature makes the platform suitable for:
+## This feature makes the platform suitable for:
 
-hackathon teams
-student group projects
-teams from different companies
-startup teams
-collaborative software development
+-hackathon teams
+-student group projects
+-teams from different companies
+-startup teams
+-collaborative software development
 
 The team structure is designed to scale, with future enhancements such as role-based permissions, activity tracking, and shared project dashboards.
 
