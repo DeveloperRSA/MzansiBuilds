@@ -26,7 +26,7 @@ Many developers build in isolation and miss support, accountability, and exposur
 ## Extra Features:
 ## Team Collaboration Support
 
-MzansiBuilds now supports the ability for users to create or join teams, making it easier to collaborate on projects. A team can consist of multiple members, allowing developers, students, or hackathon groups to work together within a shared workspace(note that the celebration wall for is separate for teams and users to ensure fairness).
+MzansiBuilds now supports the ability for users to create or join teams, making it easier to collaborate on projects. A team can consist of multiple members, allowing developers, students, or hackathon groups to work together within a shared workspace(note that the celebration wall is separate for teams and individual users to ensure fairness).
 
 ## Each team includes:
 
