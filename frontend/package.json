@@ -13,6 +13,10 @@
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.3.2",
+    "autoprefixer": "^10.4.27",
+    "font-awesome": "^4.7.0",
+    "postcss": "^8.5.9",
+    "tailwindcss": "^4.2.2",
     "vite": "^5.4.8"
   }
 }

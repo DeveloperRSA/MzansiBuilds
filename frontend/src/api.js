@@ -1,5 +1,5 @@
 // Single place for API base URL so switching environments is easy.
-const API_BASE = "http://127.0.0.1:8000";
+const API_BASE = "https://miniature-goldfish-7jj59r5rw6rhrpxp-8000.app.github.dev";
 
 // Tiny helper for JSON APIs: adds headers + unified error handling.
 async function api(path, options = {}) {
