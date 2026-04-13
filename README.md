@@ -86,33 +86,7 @@ npm run dev
 
 Frontend URL: `http://127.0.0.1:5173`
 
-## Competency evidence mapping
-
-### 1. Project Profiling 
-Included in this README (problem, users, scope, features).
-
-### 2. Code Version Control 
-Use granular commits, e.g.:
-- `feat(api): add register/login endpoints`
-- `feat(feed): add project feed and celebration wall`
-- `test(api): add registration and project tests`
-
-### 3. Test-Driven Development 
-`backend/tests/test_api.py` includes tests for:
-- user register + login success
-- project creation validation
-- celebration wall flow after completion
-
-### 4. Secure by Design 
-- Passwords are hashed with bcrypt
-- Email/password inputs are validated with Pydantic
-- Basic constraints and length checks are enforced
-- Keep sensitive values in `.env` when extending auth/session features
-
-### 5. Project Documentation  
-This README includes overview, architecture, run instructions, and competency mapping.
-
-### 6. Ethical Use of AI 
+## Ethical Use of AI 
 This project was fully driven by DeveloperRSA(me) original vision, from the initial brainstorming and functional requirements to the final technology choices. I integrated AI-assisted coding to streamline the development process, refine the codebase and code review support(GitHub Copilot included). All generated output was reviewed, edited, and validated by DeveloperRSA before final submission.
 
 ## Future improvements
