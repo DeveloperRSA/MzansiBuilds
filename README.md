@@ -86,6 +86,17 @@ mzansi-builds/
 ├── next.config.js
 └── postcss.config.js
 
+## Run locally
+
+```bash
+# Clone and install
+git clone https://github.com/DeveloperRSA/mzansi-builds.git
+cd mzansi-builds
+npm install
+
+# Start development server
+npm run dev
+
 ## Author
 DeveloperRSA
 Nomfundo Luyanda Mtiyane
