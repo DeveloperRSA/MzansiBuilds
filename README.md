@@ -126,7 +126,7 @@ npm install
 
 # Start development server
 npm run dev```
-
+```
 
 ##Author
 Nomfundo Luyanda Mtiyane
