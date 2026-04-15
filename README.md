@@ -125,7 +125,7 @@ cd mzansi-builds
 npm install
 
 # Start development server
-npm run dev
+npm run dev```
 
 
 ##Author
