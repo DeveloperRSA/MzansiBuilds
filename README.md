@@ -128,8 +128,8 @@ npm install
 npm run dev```
 ```
 
-##Author
-Nomfundo Luyanda Mtiyane
-DeveloperRSA~ GitHub
-InfoSecGirl~ TryHackMe
-Nomfundo Mtiyane~ LinkedIn
+## Author
+### Nomfundo Luyanda Mtiyane
+- DeveloperRSA~ GitHub
+- InfoSecGirl~ TryHackMe
+- Nomfundo Mtiyane~ LinkedIn
