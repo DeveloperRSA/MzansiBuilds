@@ -20,12 +20,40 @@ Many developers build in isolation and miss support, accountability, and exposur
 - Milestone updates and comments for collaboration
 - Celebration wall for completed projects
 
-## Stack
-
-- **Frontend:** Next.js 14 + TypeScript + Tailwind CSS (green/white/black design theme)
-- **Backend:** Next.js API Routes + File-based JSON storage
-- **Security:** Password hashing with bcryptjs
-- **Database:** JSON file storage (easily migratable to PostgreSQL)
+## Tech Stack
+### 🎨 Frontend Stack
+- Technology	Purpose
+- React	UI library for building components
+- Vite	Build tool & dev server (faster than Create React App)
+- JavaScript (ES6+)	Primary frontend language
+- Fetch API / Axios	HTTP requests to backend
+- CSS	Styling (custom styles.css)
+- React Hooks	State management (useState, useEffect, useContext)
+  
+###⚙️ Backend Stack
+- Technology	Purpose
+- Python	Backend programming language
+- FastAPI	Web framework for REST API
+- Uvicorn	ASGI server (runs FastAPI)
+- Pydantic	Data validation & serialization
+- SQLAlchemy	ORM (database interaction) - optional
+- python-jose	JWT token handling for authentication
+- passlib	Password hashing (bcrypt)
+  
+### 🗄️ Database (implied)
+- Technology	Purpose
+- SQLite (likely)	Development database
+- PostgreSQL (possible)	Production database
+### 🔗 Communication
+- Technology	Purpose
+- REST API	Architecture pattern
+- JSON	Data format
+- CORS	Cross-origin resource sharing
+  
+### 🧪 Testing
+- Technology	Purpose
+- Pytest (likely)	Python testing
+- React Testing Library (optional)	Frontend testing
 
 ## Extra Features:
 
@@ -99,6 +127,9 @@ npm install
 # Start development server
 npm run dev
 
-## Author
-DeveloperRSA
+
+##Author
 Nomfundo Luyanda Mtiyane
+DeveloperRSA~ GitHub
+InfoSecGirl~ TryHackMe
+Nomfundo Mtiyane~ LinkedIn
